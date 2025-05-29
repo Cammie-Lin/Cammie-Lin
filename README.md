@@ -5,4 +5,5 @@
 - BPMN for process modeling
 - Python(Basic): Familiar with basic syntax, variables, control structures, and simple scripts.
 - Note:This GitHub page has just been created and will be updated shortly with portfolio content.
+- Thanks for visiting!  
 
